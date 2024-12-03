@@ -1,0 +1,60 @@
+
+.navbar {background-color: rgb(240, 240, 53);
+    font-family: "Mystery Quest", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+  }
+
+  
+.mystery-quest-regular {
+    font-family: "Mystery Quest", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+ 
+.navbar-nav .nav-link {
+    color: black; 
+  }
+  
+ 
+  .navbar-nav .nav-link:hover {
+    color: #8B0000; 
+  }
+
+ 
+.main-content {
+    border: 20px solid transparent; 
+    border-image: url('woodbg.jpeg') 30 round; 
+    padding: 20px; 
+    background-color: black;
+    
+    color: rgb(240, 240, 53);
+    font-family: "Mystery Quest", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    text-align: center;
+
+  }
+  .title-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .title-container h1 {
+    text-align: center;
+    margin: 0;
+  }
+  
+  .title-container img {
+    max-width: 100%;
+    height: auto;
+  }
+
+    
+    
